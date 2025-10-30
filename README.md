@@ -4,7 +4,9 @@
 
 Breed Vision is an AI-powered web app built with Streamlit that helps identify cattle and buffalo breeds based on uploaded images.
 It provides breed predictions along with confidence levels and an easy-to-use interface.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **🚀 Features**
 
 📸 Upload or capture animal images
@@ -18,6 +20,7 @@ It provides breed predictions along with confidence levels and an easy-to-use in
 ⚡ Instant preview and quick feedback options
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **🐮 Supported Breeds**
 
 Cattle:
@@ -25,22 +28,26 @@ Gir, Sahiwal, Red Sindhi, Tharparkar, Jersey, Holstein
 
 Buffalo:
 Murrah, Nili-Ravi, Mehsana, Surti, Jaffarabadi
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **🛠️ Installation** 
 
 Clone the repository or download the script:
 
-    **git clone https://github.com/yourusername/breed-vision.git**
-      **cd breed-vision**
+    git clone https://github.com/yourusername/breed-vision.git
+    cd breed-vision
 
 Install required dependencies:
 
-    **pip install streamlit pillow**
+    pip install streamlit pillow
 
 Run the app:
 
-    **streamlit run breed_app.py**
+    streamlit run breed_app.py
+    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **🖼️ Usage**
 
 Upload an image of cattle or buffalo (formats: .jpg, .jpeg, .png).
@@ -54,7 +61,9 @@ Detected animal type (CATTLE or BUFFALO)
 Top 3 predicted breeds with confidence percentages.
 
 Confirm or give feedback on the prediction.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **💅 UI & Design**
 
 Light green gradient background for a natural theme
@@ -62,7 +71,9 @@ Light green gradient background for a natural theme
 Three-column layout: Upload | Preview | Predictions
 
 Progress bar and confidence meter for analysis feedback
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **📚 Technologies Used**
 
 Python 3
@@ -72,7 +83,9 @@ Streamlit — for interactive UI
 Pillow (PIL) — for image processing
 
 Random / Time — for simulation and loading effects
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **📄 License:**
 
 This project is open-source.
