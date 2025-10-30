@@ -31,6 +31,14 @@ Murrah, Nili-Ravi, Mehsana, Surti, Jaffarabadi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Output:
+
+<img width="1358" height="654" alt="image" src="https://github.com/user-attachments/assets/6cb6a01a-83e2-44b8-9e6f-27e2be1479b0" />
+
+<img width="1365" height="658" alt="image" src="https://github.com/user-attachments/assets/95d9fa81-cf0b-4eb5-a8f3-241ac989de5f" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **🛠️ Installation** 
 
 Clone the repository or download the script:
