@@ -16,6 +16,7 @@ It provides breed predictions along with confidence levels and an easy-to-use in
 💡 Interactive, responsive, and gradient-styled UI
 
 ⚡ Instant preview and quick feedback options
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🐮 Supported Breeds**
 
